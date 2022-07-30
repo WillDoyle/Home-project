@@ -65,12 +65,15 @@ img {
 }
 
 .activities{
+    
     background-color: #f1f9ed;
+    
 }
 .activities-wrapper{
     display: flex;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
+    padding: 0em 10em;
     
 }
 
